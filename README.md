@@ -1,3 +1,5 @@
+Baseado em https://onebitcode.com/como-criar-um-readme-incrivel-para-seus-projetos-e-perfil-no-github/
+
 ![Logo of the project](http://logo_link)
  
 ## Sistema de academia - AcademiaFit
